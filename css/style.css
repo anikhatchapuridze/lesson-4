@@ -27,3 +27,14 @@ margin:0px 5px 	}
 	color: red;}
 
 .tve{margin:5px 0px 0px 0px;}
+
+.section{background-color:#e6e6e6;}
+.conteiner{width: 1177px;
+	margin: 0 auto;
+	color: blue;
+}
+.left-div{display: inline-block;
+			vertical-align: top;
+			margin: 10px 20px 0px 0px}
+.right-div{display: inline-block;
+		vertical-align: top;}
